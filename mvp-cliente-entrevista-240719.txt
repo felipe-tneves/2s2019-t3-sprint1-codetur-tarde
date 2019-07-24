@@ -1,0 +1,26 @@
+distribuidora de pafleto
+pacotes de ti
+nescesidade app
+listar os pacotes informações e detalhes do pacote 
+titulo
+descrição
+preço
+data inicial e final
+telefone e site - tel ir direto para a chamada 
+site de informaç?ões e pacote 
+filtros no pacote 
+ativo inativo 
+botão para ligar da empresa 
+identidade visual pre existente 
+
+telas de adm, usuario
+cadastro de usuario
+separar entre adm 
+todas as plataformas de desenvolvimento do app
+
+bonito e rapido barato
+login
+web cadastrar 
+moblie lista 
+
+mvp - entrevista com o cliente 
